@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theAllanMzungu
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and python
 
 <!---
 theAllanMzungu/theAllanMzungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
