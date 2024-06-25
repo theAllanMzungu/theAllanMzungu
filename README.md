@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theAllanMzungu
+- 👋 Hi, I’m @the._.allanmzungu
 - 🌱 I’m currently learning Java, python and Machine Learning
 
 <!---
